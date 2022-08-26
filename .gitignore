@@ -1,0 +1,3 @@
+core.excludesFile
+~/.gitconfig/emacs.desktop
+~/gitconfig/emacs.destop.lock
